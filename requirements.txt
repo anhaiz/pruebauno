@@ -1,0 +1,5 @@
+Django==1.11.15
+pytz==2018.5
+django-ipware==2.1.0
+win-inet-pton==1.0.1
+
